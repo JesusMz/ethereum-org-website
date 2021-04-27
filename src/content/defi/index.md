@@ -1,7 +1,7 @@
 ---
-title: Decentralized finance (DeFi)
+title: Finanzas Descentralizadas (DeFi)
 description: An overview of DeFi on Ethereum
-lang: en
+lang: es
 template: use-cases
 emoji: ":money_with_wings:"
 sidebar: true
